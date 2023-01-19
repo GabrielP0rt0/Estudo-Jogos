@@ -6,7 +6,7 @@
 * LinkdIn: [@gabriel luiz porto](https://www.linkedin.com/in/gabriel-luiz-porto-4688411b1/)
 
 ---
-
+<!--
 #### Nesta Página:
 
 * [Projeto](#projeto)
@@ -62,5 +62,5 @@ Após isso, abra um console de comando dentro da pasta "dados" e utilize:
 ```js
 json-server --watch db.json
 ```
-Não feche esse console de comando enquanto deseja que a aplicação rode. Com o servidor Json rodando e a aplicação frontend (seja pelo link fornecido ou pela aplicação inicializada em sua máquina) a aplicação do Bytebank está pronto para uso!!
+Não feche esse console de comando enquanto deseja que a aplicação rode. Com o servidor Json rodando e a aplicação frontend (seja pelo link fornecido ou pela aplicação inicializada em sua máquina) a aplicação do Bytebank está pronto para uso!!-->
 
